@@ -1,0 +1,94 @@
+Oui, voici un exemple de cahier des charges pour la maquette du site IGORTECH :
+
+Cahier des charges – Site Web IGORTECH
+
+1. Présentation du projet
+
+IGOTECH est une entreprise spécialisée en créativité et innovation digitale, proposant des services dans les domaines du web, du mobile, du design graphique et du marketing numérique. L’objectif est de créer un site vitrine moderne, clair et impactant, présentant l’identité de l’agence, ses services et ses projets.
+
+
+2. Objectifs
+
+Valoriser l’image professionnelle de l’agence.
+
+Présenter les services de manière simple et visuelle.
+
+Montrer des projets récents pour inspirer confiance.
+
+Inciter à la prise de contact ou à la demande de devis.
+
+
+
+3. Structure du site (maquette à respecter)
+
+Header
+
+Logo : « IGOTECH » (typographie moderne en uppercase).
+
+Bouton/menu de navigation à droite (hamburger ou texte selon version responsive).
+
+
+Section Héros
+
+Texte principal : « CRÉATIVITÉ & INNOVATION DIGITALE »
+
+Bouton bleu centré : « Nos Services »
+
+
+Section Services
+
+Titre : « NOS SERVICES »
+
+4 icônes représentant :
+
+Création de sites web [🖥]
+
+Applications mobiles [📱]
+
+Design graphique [🎨]
+
+Marketing digital [📢]
+
+
+
+Section Projets
+
+Titre : « PROJETS »
+
+3 colonnes avec images de réalisations récentes (site web, app mobile, design visuel).
+
+
+
+4. Fonctionnalités attendues
+
+Responsive design (PC, tablette, mobile).
+
+Animation légère au survol des boutons/icônes.
+
+Intégration facile des nouveaux projets.
+
+Optimisation SEO de base.
+
+Accessibilité AA (polices lisibles, contraste suffisant, etc.).
+
+
+
+5. Technologies recommandées
+
+HTML5 / CSS3 / JavaScript
+
+Framework front-end possible : React, Vue.js ou simple HTML/CSS pour version statique.
+
+CMS (optionnel) : WordPress ou Webflow si besoin d’autonomie dans la mise à jour du contenu.
+
+
+
+6. Livrables attendus
+
+Maquette (Figma ou autre outil design)
+
+Code source (HTML/CSS ou framework)
+
+Guide d’utilisation pour modifications de base
+
+Documentation du projet
