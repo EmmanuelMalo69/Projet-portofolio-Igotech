@@ -77,7 +77,7 @@ Modifier les éléments suivants dans index.html:
 ## 📬 Contact
 
 Pour toute question ou contribution, contacter:
-- *Email*: tibetan.devi@gmail.com
+- *Email*: emmanuelmalo46@gmail.com
 - *Professeur*: Ing Betan Gitlens Ongbaye
 
 ---
